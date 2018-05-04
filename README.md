@@ -1,5 +1,12 @@
 # blog
 ---
+[Issue](https://github.com/WisperDin/blog/issues) : 通常是一些平常遇到一些问题的解决方案
+[代码仓库](https://github.com/WisperDin/blog) ： 对于基础知识的整理，比如操作系统，数据结构，计算机组成原理，数据库原理等...
+
+[Wiki](https://github.com/WisperDin/blog/wiki) : 刷编程题的总结 
+
+
+
 我创建这个博客的目的是为了总结自己在学习,做项目过程中遇到的一些问题和一些重要的知识
 
 博客内通常会包含一些 疑难杂症问题,复杂的配置过程,重要的知识(比如项目中一些经常使用但是不知道原理的东西),目前项目使用的一套技术方案
